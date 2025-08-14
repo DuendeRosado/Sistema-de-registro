@@ -1,3 +1,3 @@
-<h1> Sistema de Registro </h1>
+<h1> Challenge Amigo secreto  </h1>
 
 -Estado del proyecto : Finalizado
